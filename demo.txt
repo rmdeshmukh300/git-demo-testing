@@ -3,3 +3,4 @@ this is my second line in child branch
 this is third line feature_1 branch
 new line
 second line
+third line
